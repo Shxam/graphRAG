@@ -187,11 +187,14 @@ postmortemiq/
 
 ## 📚 Documentation
 
-### Getting Started
+### 🚀 Getting Started
 - **[Quick Start Guide](QUICKSTART.md)** - Get running in 15 minutes
 - **[Implementation Guide](IMPLEMENTATION_GUIDE.md)** - Production deployment step-by-step
+- **[Step-by-Step Summary](STEP_BY_STEP_SUMMARY.md)** - What to do and when
+- **[Implementation Checklist](IMPLEMENTATION_CHECKLIST.md)** - Printable checklist
+- **[Visual Flow Diagrams](VISUAL_FLOW.md)** - How everything works (with diagrams)
 
-### Architecture & Design
+### 🏗️ Architecture & Design
 - [Architecture](architecture.md) - System design and components
 - [Design](design%20(2).md) - Design decisions and rationale
 - [Requirements](requirements%20(1).md) - Functional and non-functional requirements
