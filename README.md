@@ -54,6 +54,10 @@ PostMortemIQ is a production incident root-cause analysis (RCA) system that comb
 
 ## 🚀 Quick Start
 
+**Want to get started in 15 minutes?** → See [QUICKSTART.md](QUICKSTART.md)
+
+**Ready for production deployment?** → See [IMPLEMENTATION_GUIDE.md](IMPLEMENTATION_GUIDE.md)
+
 ### Prerequisites
 
 - Python 3.10+
@@ -183,6 +187,11 @@ postmortemiq/
 
 ## 📚 Documentation
 
+### Getting Started
+- **[Quick Start Guide](QUICKSTART.md)** - Get running in 15 minutes
+- **[Implementation Guide](IMPLEMENTATION_GUIDE.md)** - Production deployment step-by-step
+
+### Architecture & Design
 - [Architecture](architecture.md) - System design and components
 - [Design](design%20(2).md) - Design decisions and rationale
 - [Requirements](requirements%20(1).md) - Functional and non-functional requirements
