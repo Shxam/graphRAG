@@ -2,6 +2,8 @@
 
 **GraphRAG Incident Root-Cause Engine with Trusted Execution Environment**
 
+> 🚀 **New here?** Start with **[START_HERE.md](START_HERE.md)** for a guided introduction!
+
 PostMortemIQ is a production incident root-cause analysis (RCA) system that combines TigerGraph's multi-hop graph traversal with LLM inference to trace causal chains across alerts, services, deployments, and config changes — in milliseconds, at a fraction of the token cost of baseline LLM approaches.
 
 ## 🎯 Key Features
