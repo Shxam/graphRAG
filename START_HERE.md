@@ -31,6 +31,20 @@ This will:
 
 ---
 
+### "Use real-time data instead of synthetic" (1 day)
+→ Go to **[REAL_TIME_DATA_GUIDE.md](REAL_TIME_DATA_GUIDE.md)**
+
+This shows:
+1. Where to find real incident data (public datasets, your monitoring)
+2. How to connect webhooks (Prometheus, Datadog, PagerDuty)
+3. How to poll data (Kubernetes, logs)
+4. Code examples for every integration
+5. Public datasets for testing (LogHub, GAIA, OpenStack)
+
+**Perfect for:** Moving from synthetic to real data, testing with actual incidents
+
+---
+
 ### "Deploy this to production" (2-4 weeks)
 → Go to **[IMPLEMENTATION_GUIDE.md](IMPLEMENTATION_GUIDE.md)**
 
@@ -93,6 +107,7 @@ This gives you:
 | Document | Purpose | Time | Audience |
 |----------|---------|------|----------|
 | [QUICKSTART.md](QUICKSTART.md) | Get running locally | 15 min | Everyone |
+| [REAL_TIME_DATA_GUIDE.md](REAL_TIME_DATA_GUIDE.md) | Connect real data sources | 1 day | Engineers |
 | [VISUAL_FLOW.md](VISUAL_FLOW.md) | Understand the system | 30 min | Technical |
 | [STEP_BY_STEP_SUMMARY.md](STEP_BY_STEP_SUMMARY.md) | Plan implementation | 1 hour | Managers |
 | [IMPLEMENTATION_GUIDE.md](IMPLEMENTATION_GUIDE.md) | Deploy to production | 2-4 weeks | Engineers |
